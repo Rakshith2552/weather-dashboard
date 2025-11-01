@@ -48,23 +48,11 @@ npm start
 npm run build
 ```
 
-## 🌐 Deploy
-
-**Vercel:**
-```bash
-vercel
-```
-
-**Netlify:**
-```bash
-npm run build
-netlify deploy --prod
-```
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+**Rakshith R**
+- GitHub: https://github.com/Rakshith2552
 
 ---
 
